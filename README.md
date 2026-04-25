@@ -6,7 +6,8 @@ Willkommen in meinem Repository! Hier teile ich meine Reise und meine Lösungen 
 
 [![YouTube: CS50 Kurs](https://img.shields.io/badge/YouTube-CS50_Course-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=nLRL_NcnK-4&t=5269s)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-<a href="https://liamkollaczek.vercel.app/projekte/cs50python"><img src="https://github.com/user-attachments/assets/eff3453f-850e-42c4-a795-e43f5733f230" height="28" alt="Mein Beitrag"> <b>Zum Beitrag über dieses Projekt</b></a>
+[![Zum Beitrag](https://img.shields.io/badge/Zum_Beitrag-über_dieses_Projekt-1F8A70?style=for-the-badge)](https://liamkollaczek.vercel.app/projekte/cs50python)
+
 ---
 
 ## 🛤️ Mein Weg zum Programmieren
