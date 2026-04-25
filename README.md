@@ -33,7 +33,7 @@ Der Kurs ist in **9 Themenbereiche** (für 9 Wochen) unterteilt und bietet **9 �
 
 *Themenübersicht:*
 
-<img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/903a798e-5c1a-474f-a484-9ce0dcdc3248" />
+<img width="440" height="440" alt="image" src="https://github.com/user-attachments/assets/903a798e-5c1a-474f-a484-9ce0dcdc3248" />
 
 
 ⚠️ **Notiz:** *Ich habe diesen Kurs im Jahr 2024 absolviert. In der Zwischenzeit können Änderungen am offiziellen Kursmaterial vorgenommen worden sein!*
